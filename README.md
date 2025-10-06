@@ -1,1 +1,1 @@
-# VSC#
+#ŠimonZemanPrgSem1
